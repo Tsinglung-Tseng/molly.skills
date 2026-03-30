@@ -1,0 +1,9 @@
+# obs-note skill configuration
+# Copy this file to config.yaml and update the values for your environment.
+
+# Absolute path to your Obsidian vault root directory
+# Example: /Users/yourname/Documents/Obsidian/MyVault
+vault_root: "/path/to/your/obsidian/vault"
+
+# Note language: zh = 中文为主，关键概念附英文 | en = English primary
+lang: zh
