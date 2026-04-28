@@ -8,12 +8,12 @@ A Claude Code Plugin Marketplace — Obsidian automation skills + macOS producti
 /plugin marketplace add tsinglungtseng/molly.skills
 ```
 
-## Skills
+## Plugins
 
-| Skill | Description |
-|-------|-------------|
-| [obs-note](skills/obs-note/) | Turn conversations into structured Obsidian notes with automatic bidirectional linking |
-| [apple-cli](skills/apple-cli/) | Drive macOS Calendar / Reminders / Notifications via `osascript` — pure CLI, no MCP server |
+| Plugin | Description |
+|--------|-------------|
+| [obs-note](plugins/obs-note/) | Turn conversations into structured Obsidian notes with automatic bidirectional linking |
+| [apple-cli](plugins/apple-cli/) | Drive macOS Calendar / Reminders / Notifications via `osascript` — pure CLI, no MCP server |
 
 ## Usage
 

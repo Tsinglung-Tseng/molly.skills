@@ -1,0 +1,11 @@
+{
+  "name": "apple-cli",
+  "version": "1.0.0",
+  "description": "Drive macOS Calendar / Reminders / Notifications via osascript — pure CLI, no MCP server",
+  "author": {
+    "name": "Tsinglung Tseng"
+  },
+  "license": "MIT",
+  "keywords": ["macos", "calendar", "reminders", "osascript", "automation"],
+  "skills": "./skills/"
+}

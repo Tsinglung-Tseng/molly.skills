@@ -1,0 +1,11 @@
+{
+  "name": "obs-note",
+  "version": "1.0.0",
+  "description": "Turn conversations into structured Obsidian notes with automatic bidirectional linking",
+  "author": {
+    "name": "Tsinglung Tseng"
+  },
+  "license": "MIT",
+  "keywords": ["obsidian", "notes", "knowledge-management"],
+  "skills": "./skills/"
+}

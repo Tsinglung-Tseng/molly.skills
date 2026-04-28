@@ -1,0 +1,22 @@
+{
+  "name": "molly-skills",
+  "owner": {
+    "name": "Tsinglung Tseng"
+  },
+  "plugins": [
+    {
+      "name": "obs-note",
+      "source": "./plugins/obs-note",
+      "description": "Turn conversations into structured Obsidian notes with automatic bidirectional linking",
+      "version": "1.0.0",
+      "keywords": ["obsidian", "notes", "knowledge-management"]
+    },
+    {
+      "name": "apple-cli",
+      "source": "./plugins/apple-cli",
+      "description": "Drive macOS Calendar / Reminders / Notifications via osascript — pure CLI, no MCP server",
+      "version": "1.0.0",
+      "keywords": ["macos", "calendar", "reminders", "osascript", "automation"]
+    }
+  ]
+}
