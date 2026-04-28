@@ -1,6 +1,6 @@
 # molly.skills
 
-A Claude Code Plugin Marketplace — Obsidian automation skills for daily knowledge work.
+A Claude Code Plugin Marketplace — Obsidian automation skills + macOS productivity CLIs for daily knowledge work.
 
 ## Install
 
@@ -13,6 +13,7 @@ A Claude Code Plugin Marketplace — Obsidian automation skills for daily knowle
 | Skill | Description |
 |-------|-------------|
 | [obs-note](skills/obs-note/) | Turn conversations into structured Obsidian notes with automatic bidirectional linking |
+| [apple-cli](skills/apple-cli/) | Drive macOS Calendar / Reminders / Notifications via `osascript` — pure CLI, no MCP server |
 
 ## Usage
 
@@ -20,12 +21,14 @@ After installing the marketplace:
 
 ```bash
 /plugin install obs-note@molly-skills
+/plugin install apple-cli@molly-skills
 ```
 
 Then invoke in Claude Code:
 
 ```
 /obs-note
+/apple-cli
 ```
 
 ## Configuration
